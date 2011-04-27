@@ -1,0 +1,9 @@
+If you prefer to use the keyboard to navigate your task lists, it can be a pain to switch to the mouse to open links.
+
+This script adds the 'V' key as a hotkey to open links (similar functionality to Google Reader, if you use that). If a selected task has a link, pressing 'V' will open that link in a new window/tab.
+
+@TODO:
+-Add customizable hotkey
+-Don't popup a window if multiple tasks are selected
+
+Suggestions? What do you want to see?
